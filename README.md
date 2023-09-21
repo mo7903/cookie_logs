@@ -58,5 +58,9 @@ Before getting started, ensure that you have the following requirements installe
 
 3. **Create Database and Table**:
    - Execute SQL commands to create the `cookie_logs` database and define the `logs` table.
+  
+### Import NiFi Pipeline XML:
+
+- Import the NiFi pipeline XML file `cookie_logs.xml` to set up the dataflow for processing and storing the ingested data.
 
 These steps will help you set up and run your web data ingestion pipeline efficiently. Ensure that you have the necessary dependencies installed before proceeding.
